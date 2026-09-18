@@ -1,0 +1,4502 @@
+[
+  {
+    "nama": "PT Gema Sentosa Adventure",
+    "kota_asal": "Lombok",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@gemasentosa.co.id",
+      "telepon": "+6288510576080"
+    }
+  },
+  {
+    "nama": "PT Mega Mandiri Semesta",
+    "kota_asal": "Medan",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@megamandiri.co.id",
+      "telepon": "+6286894740928"
+    }
+  },
+  {
+    "nama": "PT Garuda Tour Semesta",
+    "kota_asal": "Semarang",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@garudatour.co.id",
+      "telepon": "+6286907356720"
+    }
+  },
+  {
+    "nama": "PT Cakrawala Harmoni Perkasa",
+    "kota_asal": "Malang",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@cakrawalaharmoni.co.id",
+      "telepon": "+6284629962296"
+    }
+  },
+  {
+    "nama": "PT Jelajah Kencana Indonesia",
+    "kota_asal": "Surabaya",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@jelajahkencana.co.id",
+      "telepon": "+6287883379745"
+    }
+  },
+  {
+    "nama": "PT Pelita Makmur Voyage",
+    "kota_asal": "Surabaya",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@pelitamakmur.co.id",
+      "telepon": "+6289557749512"
+    }
+  },
+  {
+    "nama": "PT Bintang Wisata Internasional",
+    "kota_asal": "Malang",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@bintangwisata.co.id",
+      "telepon": "+6281490520246"
+    }
+  },
+  {
+    "nama": "PT Cakrawala Kreasi Expedition",
+    "kota_asal": "Lombok",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@cakrawalakreasi.co.id",
+      "telepon": "+6283163299585"
+    }
+  },
+  {
+    "nama": "PT Pelita Lestari Internasional",
+    "kota_asal": "Padang",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@pelitalestari.co.id",
+      "telepon": "+6285910624884"
+    }
+  },
+  {
+    "nama": "PT Bahari Sentosa Holiday",
+    "kota_asal": "Balikpapan",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@baharisentosa.co.id",
+      "telepon": "+6286641645373"
+    }
+  },
+  {
+    "nama": "PT Pesona Harmoni Indonesia",
+    "kota_asal": "Surabaya",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@pesonaharmoni.co.id",
+      "telepon": "+6281880655530"
+    }
+  },
+  {
+    "nama": "PT Garuda Lestari Holiday",
+    "kota_asal": "Surabaya",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@garudalestari.co.id",
+      "telepon": "+6286516035969"
+    }
+  },
+  {
+    "nama": "PT Garuda Sejahtera Semesta",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@garudasejahtera.co.id",
+      "telepon": "+6289024837302"
+    }
+  },
+  {
+    "nama": "PT Pelita Nusa Internasional",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@pelitanusa.co.id",
+      "telepon": "+6283702804809"
+    }
+  },
+  {
+    "nama": "PT Ananta Prima Perkasa",
+    "kota_asal": "Balikpapan",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@anantaprima.co.id",
+      "telepon": "+6285315904016"
+    }
+  },
+  {
+    "nama": "PT Baruna Sejahtera Voyage",
+    "kota_asal": "Balikpapan",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@barunasejahtera.co.id",
+      "telepon": "+6282328989457"
+    }
+  },
+  {
+    "nama": "PT Garuda Jaya Internasional",
+    "kota_asal": "Medan",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@garudajaya.co.id",
+      "telepon": "+6283037967134"
+    }
+  },
+  {
+    "nama": "PT Aruna Makmur Tour & Travel",
+    "kota_asal": "Surabaya",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@arunamakmur.co.id",
+      "telepon": "+6286120932124"
+    }
+  },
+  {
+    "nama": "PT Cakrawala Lestari Semesta",
+    "kota_asal": "Denpasar",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@cakrawalalestari.co.id",
+      "telepon": "+6286570641332"
+    }
+  },
+  {
+    "nama": "PT Adidaya Tour Adventure",
+    "kota_asal": "Medan",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@adidayatour.co.id",
+      "telepon": "+6283605495152"
+    }
+  },
+  {
+    "nama": "PT Pelita Utama Internasional",
+    "kota_asal": "Surabaya",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@pelitautama.co.id",
+      "telepon": "+6289100141016"
+    }
+  },
+  {
+    "nama": "PT Pelita Prima Internasional",
+    "kota_asal": "Makassar",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@pelitaprima.co.id",
+      "telepon": "+6281252000899"
+    }
+  },
+  {
+    "nama": "PT Jelajah Makmur Voyage",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@jelajahmakmur.co.id",
+      "telepon": "+6289023442248"
+    }
+  },
+  {
+    "nama": "PT Bahari Lestari Travel",
+    "kota_asal": "Lombok",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@baharilestari.co.id",
+      "telepon": "+6284835995730"
+    }
+  },
+  {
+    "nama": "PT Garuda Mandiri Tour & Travel",
+    "kota_asal": "Padang",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@garudamandiri.co.id",
+      "telepon": "+6284841848374"
+    }
+  },
+  {
+    "nama": "PT Cakrawala Nusa Holiday",
+    "kota_asal": "Makassar",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@cakrawalanusa.co.id",
+      "telepon": "+6288366399404"
+    }
+  },
+  {
+    "nama": "PT Aruna Langkah Internasional",
+    "kota_asal": "Denpasar",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@arunalangkah.co.id",
+      "telepon": "+6289173332864"
+    }
+  },
+  {
+    "nama": "PT Rimba Tour Expedition",
+    "kota_asal": "Medan",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@rimbatour.co.id",
+      "telepon": "+6288239432031"
+    }
+  },
+  {
+    "nama": "PT Borneo Sejati Semesta",
+    "kota_asal": "Makassar",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@borneosejati.co.id",
+      "telepon": "+6283898921551"
+    }
+  },
+  {
+    "nama": "PT Tri Tunggal Lestari Voyage",
+    "kota_asal": "Medan",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@tritunggallestari.co.id",
+      "telepon": "+6283649493903"
+    }
+  },
+  {
+    "nama": "PT Borneo Kreasi Semesta",
+    "kota_asal": "Bandung",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@borneokreasi.co.id",
+      "telepon": "+6288794800871"
+    }
+  },
+  {
+    "nama": "PT Mitra Langkah Tour & Travel",
+    "kota_asal": "Surabaya",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@mitralangkah.co.id",
+      "telepon": "+6283152483771"
+    }
+  },
+  {
+    "nama": "PT Baruna Nirwana Tour & Travel",
+    "kota_asal": "Malang",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@barunanirwana.co.id",
+      "telepon": "+6282558282935"
+    }
+  },
+  {
+    "nama": "PT Baruna Global Holiday",
+    "kota_asal": "Denpasar",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@barunaglobal.co.id",
+      "telepon": "+6281350177571"
+    }
+  },
+  {
+    "nama": "PT Pesona Prima Expedition",
+    "kota_asal": "Balikpapan",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@pesonaprima.co.id",
+      "telepon": "+6286485591792"
+    }
+  },
+  {
+    "nama": "PT Lentera Sentosa Perkasa",
+    "kota_asal": "Malang",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@lenterasentosa.co.id",
+      "telepon": "+6283014939238"
+    }
+  },
+  {
+    "nama": "PT Surya Sukses Indonesia",
+    "kota_asal": "Semarang",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@suryasukses.co.id",
+      "telepon": "+6281545495621"
+    }
+  },
+  {
+    "nama": "PT Purnama Prima Expedition",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@purnamaprima.co.id",
+      "telepon": "+6285283865979"
+    }
+  },
+  {
+    "nama": "PT Khatulistiwa Sejati Internasional",
+    "kota_asal": "Makassar",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@khatulistiwasejati.co.id",
+      "telepon": "+6283891435190"
+    }
+  },
+  {
+    "nama": "PT Borneo Makmur Voyage",
+    "kota_asal": "Padang",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@borneomakmur.co.id",
+      "telepon": "+6285466997819"
+    }
+  },
+  {
+    "nama": "PT Borneo Wisata Holiday",
+    "kota_asal": "Denpasar",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@borneowisata.co.id",
+      "telepon": "+6284321337780"
+    }
+  },
+  {
+    "nama": "PT Rimba Makmur Indonesia",
+    "kota_asal": "Balikpapan",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@rimbamakmur.co.id",
+      "telepon": "+6284108932621"
+    }
+  },
+  {
+    "nama": "PT Gema Langkah Indonesia",
+    "kota_asal": "Denpasar",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@gemalangkah.co.id",
+      "telepon": "+6281676919573"
+    }
+  },
+  {
+    "nama": "PT Mitra Abadi Travel",
+    "kota_asal": "Makassar",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@mitraabadi.co.id",
+      "telepon": "+6282010202199"
+    }
+  },
+  {
+    "nama": "PT Lentera Prima Internasional",
+    "kota_asal": "Makassar",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@lenteraprima.co.id",
+      "telepon": "+6286393112697"
+    }
+  },
+  {
+    "nama": "PT Borneo Mandiri Tour & Travel",
+    "kota_asal": "Padang",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@borneomandiri.co.id",
+      "telepon": "+6285619095138"
+    }
+  },
+  {
+    "nama": "PT Nusantara Langkah Perkasa",
+    "kota_asal": "Malang",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@nusantaralangkah.co.id",
+      "telepon": "+6285089005633"
+    }
+  },
+  {
+    "nama": "PT Pandawa Utama Semesta",
+    "kota_asal": "Bandung",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@pandawautama.co.id",
+      "telepon": "+6287593305643"
+    }
+  },
+  {
+    "nama": "PT Adidaya Langkah Perkasa",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@adidayalangkah.co.id",
+      "telepon": "+6289568385466"
+    }
+  },
+  {
+    "nama": "PT Aruna Nusa Expedition",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@arunanusa.co.id",
+      "telepon": "+6281277546024"
+    }
+  },
+  {
+    "nama": "PT Pesona Langkah Semesta",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@pesonalangkah.co.id",
+      "telepon": "+6281554895858"
+    }
+  },
+  {
+    "nama": "PT Kencana Kreasi Travel",
+    "kota_asal": "Bandung",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@kencanakreasi.co.id",
+      "telepon": "+6285185785527"
+    }
+  },
+  {
+    "nama": "PT Nusantara Makmur Travel",
+    "kota_asal": "Malang",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@nusantaramakmur.co.id",
+      "telepon": "+6285301119598"
+    }
+  },
+  {
+    "nama": "PT Andalas Abadi Voyage",
+    "kota_asal": "Malang",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@andalasabadi.co.id",
+      "telepon": "+6286324899218"
+    }
+  },
+  {
+    "nama": "PT Pelita Kreasi Travel",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@pelitakreasi.co.id",
+      "telepon": "+6281654501979"
+    }
+  },
+  {
+    "nama": "PT Kencana Langkah Internasional",
+    "kota_asal": "Bandung",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@kencanalangkah.co.id",
+      "telepon": "+6289009620902"
+    }
+  },
+  {
+    "nama": "PT Adidaya Sejahtera Voyage",
+    "kota_asal": "Makassar",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@adidayasejahtera.co.id",
+      "telepon": "+6283075025876"
+    }
+  },
+  {
+    "nama": "PT Gema Sejahtera Holiday",
+    "kota_asal": "Semarang",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@gemasejahtera.co.id",
+      "telepon": "+6283726751972"
+    }
+  },
+  {
+    "nama": "PT Bumi Kencana Internasional",
+    "kota_asal": "Surabaya",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@bumikencana.co.id",
+      "telepon": "+6283911187184"
+    }
+  },
+  {
+    "nama": "PT Andalas Global Perkasa",
+    "kota_asal": "Medan",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@andalasglobal.co.id",
+      "telepon": "+6284682972309"
+    }
+  },
+  {
+    "nama": "PT Lentera Abadi Voyage",
+    "kota_asal": "Medan",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@lenteraabadi.co.id",
+      "telepon": "+6287791935418"
+    }
+  },
+  {
+    "nama": "PT Purnama Lestari Indonesia",
+    "kota_asal": "Malang",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@purnamalestari.co.id",
+      "telepon": "+6283528310978"
+    }
+  },
+  {
+    "nama": "PT Purnama Utama Semesta",
+    "kota_asal": "Bandung",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@purnamautama.co.id",
+      "telepon": "+6282949465016"
+    }
+  },
+  {
+    "nama": "PT Pandawa Sejati Internasional",
+    "kota_asal": "Malang",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@pandawasejati.co.id",
+      "telepon": "+6286473380886"
+    }
+  },
+  {
+    "nama": "PT Lentera Langkah Semesta",
+    "kota_asal": "Medan",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@lenteralangkah.co.id",
+      "telepon": "+6289044447261"
+    }
+  },
+  {
+    "nama": "PT Lentera Harmoni Holiday",
+    "kota_asal": "Denpasar",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@lenteraharmoni.co.id",
+      "telepon": "+6284214663385"
+    }
+  },
+  {
+    "nama": "PT Bintang Sentosa Expedition",
+    "kota_asal": "Balikpapan",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@bintangsentosa.co.id",
+      "telepon": "+6288701990438"
+    }
+  },
+  {
+    "nama": "PT Swarna Prima Semesta",
+    "kota_asal": "Surabaya",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@swarnaprima.co.id",
+      "telepon": "+6285841847982"
+    }
+  },
+  {
+    "nama": "PT Borneo Abadi Holiday",
+    "kota_asal": "Padang",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@borneoabadi.co.id",
+      "telepon": "+6284228983121"
+    }
+  },
+  {
+    "nama": "PT Adidaya Mandiri Tour & Travel",
+    "kota_asal": "Medan",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@adidayamandiri.co.id",
+      "telepon": "+6285466539301"
+    }
+  },
+  {
+    "nama": "PT Lentera Langkah Travel",
+    "kota_asal": "Medan",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@lenteralangkah.co.id",
+      "telepon": "+6282734057459"
+    }
+  },
+  {
+    "nama": "PT Tri Tunggal Langkah Perkasa",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@tritunggallangkah.co.id",
+      "telepon": "+6287897305440"
+    }
+  },
+  {
+    "nama": "PT Rimba Sentosa Holiday",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@rimbasentosa.co.id",
+      "telepon": "+6288398972270"
+    }
+  },
+  {
+    "nama": "PT Gema Nirwana Travel",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@gemanirwana.co.id",
+      "telepon": "+6288695087881"
+    }
+  },
+  {
+    "nama": "PT Swarna Global Holiday",
+    "kota_asal": "Yogyakarta",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@swarnaglobal.co.id",
+      "telepon": "+6281800897648"
+    }
+  },
+  {
+    "nama": "PT Lentera Jaya Adventure",
+    "kota_asal": "Malang",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@lenterajaya.co.id",
+      "telepon": "+6289242233099"
+    }
+  },
+  {
+    "nama": "PT Adidaya Langkah Travel",
+    "kota_asal": "Malang",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@adidayalangkah.co.id",
+      "telepon": "+6285980295169"
+    }
+  },
+  {
+    "nama": "PT Pesona Abadi Voyage",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@pesonaabadi.co.id",
+      "telepon": "+6281026828984"
+    }
+  },
+  {
+    "nama": "PT Tri Tunggal Nusa Holiday",
+    "kota_asal": "Makassar",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@tritunggalnusa.co.id",
+      "telepon": "+6289265813116"
+    }
+  },
+  {
+    "nama": "PT Baruna Sejahtera Adventure",
+    "kota_asal": "Surabaya",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@barunasejahtera.co.id",
+      "telepon": "+6281286742570"
+    }
+  },
+  {
+    "nama": "PT Cakrawala Global Travel",
+    "kota_asal": "Bandung",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@cakrawalaglobal.co.id",
+      "telepon": "+6281928396346"
+    }
+  },
+  {
+    "nama": "PT Bintang Prima Adventure",
+    "kota_asal": "Lombok",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@bintangprima.co.id",
+      "telepon": "+6283417380024"
+    }
+  },
+  {
+    "nama": "PT Baruna Wisata Travel",
+    "kota_asal": "Lombok",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@barunawisata.co.id",
+      "telepon": "+6288935311433"
+    }
+  },
+  {
+    "nama": "PT Samudra Makmur Indonesia",
+    "kota_asal": "Balikpapan",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@samudramakmur.co.id",
+      "telepon": "+6286378302682"
+    }
+  },
+  {
+    "nama": "PT Bahari Langkah Holiday",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@baharilangkah.co.id",
+      "telepon": "+6283422722248"
+    }
+  },
+  {
+    "nama": "PT Mega Harmoni Indonesia",
+    "kota_asal": "Makassar",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@megaharmoni.co.id",
+      "telepon": "+6287107025563"
+    }
+  },
+  {
+    "nama": "PT Gema Sentosa Indonesia",
+    "kota_asal": "Bandung",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@gemasentosa.co.id",
+      "telepon": "+6288703877544"
+    }
+  },
+  {
+    "nama": "PT Bumi Langkah Voyage",
+    "kota_asal": "Bandung",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@bumilangkah.co.id",
+      "telepon": "+6282127610375"
+    }
+  },
+  {
+    "nama": "PT Mahameru Prima Expedition",
+    "kota_asal": "Makassar",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@mahameruprima.co.id",
+      "telepon": "+6289048507525"
+    }
+  },
+  {
+    "nama": "PT Samudra Sejahtera Perkasa",
+    "kota_asal": "Malang",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@samudrasejahtera.co.id",
+      "telepon": "+6284458088667"
+    }
+  },
+  {
+    "nama": "PT Swarna Makmur Holiday",
+    "kota_asal": "Denpasar",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@swarnamakmur.co.id",
+      "telepon": "+6283053643117"
+    }
+  },
+  {
+    "nama": "PT Pandawa Tour Indonesia",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@pandawatour.co.id",
+      "telepon": "+6281161526899"
+    }
+  },
+  {
+    "nama": "PT Kencana Kencana Tour & Travel",
+    "kota_asal": "Makassar",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@kencanakencana.co.id",
+      "telepon": "+6281194744632"
+    }
+  },
+  {
+    "nama": "PT Aruna Utama Adventure",
+    "kota_asal": "Semarang",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@arunautama.co.id",
+      "telepon": "+6285410396307"
+    }
+  },
+  {
+    "nama": "PT Pesona Prima Adventure",
+    "kota_asal": "Semarang",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@pesonaprima.co.id",
+      "telepon": "+6284132420405"
+    }
+  },
+  {
+    "nama": "PT Swarna Kreasi Semesta",
+    "kota_asal": "Denpasar",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@swarnakreasi.co.id",
+      "telepon": "+6283652809714"
+    }
+  },
+  {
+    "nama": "PT Pandawa Mandiri Travel",
+    "kota_asal": "Surabaya",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@pandawamandiri.co.id",
+      "telepon": "+6286541965657"
+    }
+  },
+  {
+    "nama": "PT Surya Harmoni Voyage",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@suryaharmoni.co.id",
+      "telepon": "+6288548120784"
+    }
+  },
+  {
+    "nama": "PT Swarna Tour Holiday",
+    "kota_asal": "Medan",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@swarnatour.co.id",
+      "telepon": "+6289427779329"
+    }
+  },
+  {
+    "nama": "PT Borneo Nirwana Tour & Travel",
+    "kota_asal": "Surabaya",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@borneonirwana.co.id",
+      "telepon": "+6285328405073"
+    }
+  },
+  {
+    "nama": "PT Nusantara Langkah Voyage",
+    "kota_asal": "Padang",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@nusantaralangkah.co.id",
+      "telepon": "+6281914283112"
+    }
+  },
+  {
+    "nama": "PT Bahari Makmur Travel",
+    "kota_asal": "Balikpapan",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@baharimakmur.co.id",
+      "telepon": "+6283590690502"
+    }
+  },
+  {
+    "nama": "PT Pelita Makmur Perkasa",
+    "kota_asal": "Semarang",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@pelitamakmur.co.id",
+      "telepon": "+6282814570126"
+    }
+  },
+  {
+    "nama": "PT Baruna Kencana Holiday",
+    "kota_asal": "Semarang",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@barunakencana.co.id",
+      "telepon": "+6288304795595"
+    }
+  },
+  {
+    "nama": "PT Mitra Sejahtera Indonesia",
+    "kota_asal": "Malang",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@mitrasejahtera.co.id",
+      "telepon": "+6289702020252"
+    }
+  },
+  {
+    "nama": "PT Mega Abadi Travel",
+    "kota_asal": "Padang",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@megaabadi.co.id",
+      "telepon": "+6285276187316"
+    }
+  },
+  {
+    "nama": "PT Baruna Utama Perkasa",
+    "kota_asal": "Lombok",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@barunautama.co.id",
+      "telepon": "+6285745256114"
+    }
+  },
+  {
+    "nama": "PT Samudra Abadi Holiday",
+    "kota_asal": "Semarang",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@samudraabadi.co.id",
+      "telepon": "+6285922423350"
+    }
+  },
+  {
+    "nama": "PT Surya Tour Semesta",
+    "kota_asal": "Makassar",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@suryatour.co.id",
+      "telepon": "+6281828548486"
+    }
+  },
+  {
+    "nama": "PT Pesona Mandiri Travel",
+    "kota_asal": "Medan",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@pesonamandiri.co.id",
+      "telepon": "+6287714421088"
+    }
+  },
+  {
+    "nama": "PT Pesona Kreasi Adventure",
+    "kota_asal": "Medan",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@pesonakreasi.co.id",
+      "telepon": "+6288339613376"
+    }
+  },
+  {
+    "nama": "PT Mahameru Lestari Semesta",
+    "kota_asal": "Medan",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@mahamerulestari.co.id",
+      "telepon": "+6284190306230"
+    }
+  },
+  {
+    "nama": "PT Surya Nusa Internasional",
+    "kota_asal": "Balikpapan",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@suryanusa.co.id",
+      "telepon": "+6285567655268"
+    }
+  },
+  {
+    "nama": "PT Gema Makmur Adventure",
+    "kota_asal": "Balikpapan",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@gemamakmur.co.id",
+      "telepon": "+6289484778321"
+    }
+  },
+  {
+    "nama": "PT Swarna Abadi Internasional",
+    "kota_asal": "Balikpapan",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@swarnaabadi.co.id",
+      "telepon": "+6284911604346"
+    }
+  },
+  {
+    "nama": "PT Pelita Harmoni Travel",
+    "kota_asal": "Bandung",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@pelitaharmoni.co.id",
+      "telepon": "+6287353733843"
+    }
+  },
+  {
+    "nama": "PT Tri Tunggal Jaya Internasional",
+    "kota_asal": "Padang",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@tritunggaljaya.co.id",
+      "telepon": "+6288825598013"
+    }
+  },
+  {
+    "nama": "PT Pesona Global Holiday",
+    "kota_asal": "Lombok",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@pesonaglobal.co.id",
+      "telepon": "+6283443523860"
+    }
+  },
+  {
+    "nama": "PT Lentera Tour Semesta",
+    "kota_asal": "Medan",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@lenteratour.co.id",
+      "telepon": "+6286282815048"
+    }
+  },
+  {
+    "nama": "PT Rimba Abadi Voyage",
+    "kota_asal": "Medan",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@rimbaabadi.co.id",
+      "telepon": "+6282417105624"
+    }
+  },
+  {
+    "nama": "PT Surya Prima Travel",
+    "kota_asal": "Lombok",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@suryaprima.co.id",
+      "telepon": "+6284250255883"
+    }
+  },
+  {
+    "nama": "PT Pesona Sukses Expedition",
+    "kota_asal": "Balikpapan",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@pesonasukses.co.id",
+      "telepon": "+6283366336690"
+    }
+  },
+  {
+    "nama": "PT Gema Kreasi Holiday",
+    "kota_asal": "Malang",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@gemakreasi.co.id",
+      "telepon": "+6282130685521"
+    }
+  },
+  {
+    "nama": "PT Mitra Tour Expedition",
+    "kota_asal": "Denpasar",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@mitratour.co.id",
+      "telepon": "+6284806455285"
+    }
+  },
+  {
+    "nama": "PT Swarna Abadi Travel",
+    "kota_asal": "Lombok",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@swarnaabadi.co.id",
+      "telepon": "+6289206068905"
+    }
+  },
+  {
+    "nama": "PT Swarna Mandiri Perkasa",
+    "kota_asal": "Malang",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@swarnamandiri.co.id",
+      "telepon": "+6283902174276"
+    }
+  },
+  {
+    "nama": "PT Mitra Tour Tour & Travel",
+    "kota_asal": "Lombok",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@mitratour.co.id",
+      "telepon": "+6283978659995"
+    }
+  },
+  {
+    "nama": "PT Mega Sejati Expedition",
+    "kota_asal": "Surabaya",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@megasejati.co.id",
+      "telepon": "+6288704732281"
+    }
+  },
+  {
+    "nama": "PT Adidaya Harmoni Holiday",
+    "kota_asal": "Padang",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@adidayaharmoni.co.id",
+      "telepon": "+6289267988497"
+    }
+  },
+  {
+    "nama": "PT Bintang Utama Indonesia",
+    "kota_asal": "Denpasar",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@bintangutama.co.id",
+      "telepon": "+6289716643234"
+    }
+  },
+  {
+    "nama": "PT Adidaya Sentosa Semesta",
+    "kota_asal": "Balikpapan",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@adidayasentosa.co.id",
+      "telepon": "+6285939392535"
+    }
+  },
+  {
+    "nama": "PT Pandawa Utama Adventure",
+    "kota_asal": "Denpasar",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@pandawautama.co.id",
+      "telepon": "+6286269861478"
+    }
+  },
+  {
+    "nama": "PT Adidaya Kencana Internasional",
+    "kota_asal": "Padang",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@adidayakencana.co.id",
+      "telepon": "+6286112222044"
+    }
+  },
+  {
+    "nama": "PT Dewata Abadi Tour & Travel",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@dewataabadi.co.id",
+      "telepon": "+6288406343682"
+    }
+  },
+  {
+    "nama": "PT Aruna Utama Expedition",
+    "kota_asal": "Denpasar",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@arunautama.co.id",
+      "telepon": "+6282231493077"
+    }
+  },
+  {
+    "nama": "PT Tri Tunggal Global Adventure",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@tritunggalglobal.co.id",
+      "telepon": "+6287466414052"
+    }
+  },
+  {
+    "nama": "PT Nusantara Sejahtera Internasional",
+    "kota_asal": "Bandung",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@nusantarasejahtera.co.id",
+      "telepon": "+6286018771244"
+    }
+  },
+  {
+    "nama": "PT Samudra Abadi Indonesia",
+    "kota_asal": "Lombok",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@samudraabadi.co.id",
+      "telepon": "+6283100835900"
+    }
+  },
+  {
+    "nama": "PT Garuda Mandiri Voyage",
+    "kota_asal": "Balikpapan",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@garudamandiri.co.id",
+      "telepon": "+6286925828859"
+    }
+  },
+  {
+    "nama": "PT Baruna Global Indonesia",
+    "kota_asal": "Medan",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@barunaglobal.co.id",
+      "telepon": "+6289525719563"
+    }
+  },
+  {
+    "nama": "PT Bahari Prima Tour & Travel",
+    "kota_asal": "Balikpapan",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@bahariprima.co.id",
+      "telepon": "+6288787066581"
+    }
+  },
+  {
+    "nama": "PT Cakrawala Makmur Travel",
+    "kota_asal": "Medan",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@cakrawalamakmur.co.id",
+      "telepon": "+6281574692372"
+    }
+  },
+  {
+    "nama": "PT Mahameru Sukses Holiday",
+    "kota_asal": "Padang",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@mahamerusukses.co.id",
+      "telepon": "+6288726590291"
+    }
+  },
+  {
+    "nama": "PT Bumi Utama Adventure",
+    "kota_asal": "Balikpapan",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@bumiutama.co.id",
+      "telepon": "+6282300570925"
+    }
+  },
+  {
+    "nama": "PT Gema Kencana Adventure",
+    "kota_asal": "Surabaya",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@gemakencana.co.id",
+      "telepon": "+6283015527299"
+    }
+  },
+  {
+    "nama": "PT Bahari Sukses Travel",
+    "kota_asal": "Bandung",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@baharisukses.co.id",
+      "telepon": "+6289411998300"
+    }
+  },
+  {
+    "nama": "PT Jelajah Prima Tour & Travel",
+    "kota_asal": "Padang",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@jelajahprima.co.id",
+      "telepon": "+6282434590169"
+    }
+  },
+  {
+    "nama": "PT Samudra Kreasi Voyage",
+    "kota_asal": "Semarang",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@samudrakreasi.co.id",
+      "telepon": "+6289302354399"
+    }
+  },
+  {
+    "nama": "PT Swarna Nirwana Adventure",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@swarnanirwana.co.id",
+      "telepon": "+6285703740683"
+    }
+  },
+  {
+    "nama": "PT Tri Tunggal Utama Voyage",
+    "kota_asal": "Bandung",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@tritunggalutama.co.id",
+      "telepon": "+6285967656667"
+    }
+  },
+  {
+    "nama": "PT Bintang Wisata Adventure",
+    "kota_asal": "Malang",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@bintangwisata.co.id",
+      "telepon": "+6286465977452"
+    }
+  },
+  {
+    "nama": "PT Bahari Global Voyage",
+    "kota_asal": "Makassar",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@bahariglobal.co.id",
+      "telepon": "+6287456647800"
+    }
+  },
+  {
+    "nama": "PT Purnama Sentosa Holiday",
+    "kota_asal": "Denpasar",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@purnamasentosa.co.id",
+      "telepon": "+6288386251148"
+    }
+  },
+  {
+    "nama": "PT Purnama Sentosa Tour & Travel",
+    "kota_asal": "Semarang",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@purnamasentosa.co.id",
+      "telepon": "+6281132920162"
+    }
+  },
+  {
+    "nama": "PT Pelita Lestari Tour & Travel",
+    "kota_asal": "Denpasar",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@pelitalestari.co.id",
+      "telepon": "+6284187503513"
+    }
+  },
+  {
+    "nama": "PT Tri Tunggal Makmur Indonesia",
+    "kota_asal": "Padang",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@tritunggalmakmur.co.id",
+      "telepon": "+6283417377948"
+    }
+  },
+  {
+    "nama": "PT Mega Wisata Internasional",
+    "kota_asal": "Yogyakarta",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@megawisata.co.id",
+      "telepon": "+6283561077867"
+    }
+  },
+  {
+    "nama": "PT Mahameru Wisata Perkasa",
+    "kota_asal": "Bandung",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@mahameruwisata.co.id",
+      "telepon": "+6284447054476"
+    }
+  },
+  {
+    "nama": "PT Rimba Wisata Semesta",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@rimbawisata.co.id",
+      "telepon": "+6281064677787"
+    }
+  },
+  {
+    "nama": "PT Purnama Sukses Travel",
+    "kota_asal": "Medan",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@purnamasukses.co.id",
+      "telepon": "+6287297254906"
+    }
+  },
+  {
+    "nama": "PT Pesona Prima Internasional",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@pesonaprima.co.id",
+      "telepon": "+6285240003985"
+    }
+  },
+  {
+    "nama": "PT Samudra Prima Indonesia",
+    "kota_asal": "Lombok",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@samudraprima.co.id",
+      "telepon": "+6284383720231"
+    }
+  },
+  {
+    "nama": "PT Swarna Lestari Semesta",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@swarnalestari.co.id",
+      "telepon": "+6287919828416"
+    }
+  },
+  {
+    "nama": "PT Gema Kencana Holiday",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@gemakencana.co.id",
+      "telepon": "+6287600950557"
+    }
+  },
+  {
+    "nama": "PT Baruna Kencana Adventure",
+    "kota_asal": "Surabaya",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@barunakencana.co.id",
+      "telepon": "+6282567828143"
+    }
+  },
+  {
+    "nama": "PT Adidaya Lestari Tour & Travel",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@adidayalestari.co.id",
+      "telepon": "+6286004430928"
+    }
+  },
+  {
+    "nama": "PT Adidaya Nirwana Tour & Travel",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@adidayanirwana.co.id",
+      "telepon": "+6283425199288"
+    }
+  },
+  {
+    "nama": "PT Surya Sukses Perkasa",
+    "kota_asal": "Semarang",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@suryasukses.co.id",
+      "telepon": "+6282714805126"
+    }
+  },
+  {
+    "nama": "PT Swarna Prima Semesta",
+    "kota_asal": "Makassar",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@swarnaprima.co.id",
+      "telepon": "+6285432866232"
+    }
+  },
+  {
+    "nama": "PT Rimba Tour Holiday",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@rimbatour.co.id",
+      "telepon": "+6287692083373"
+    }
+  },
+  {
+    "nama": "PT Rimba Makmur Tour & Travel",
+    "kota_asal": "Denpasar",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@rimbamakmur.co.id",
+      "telepon": "+6288284365707"
+    }
+  },
+  {
+    "nama": "PT Kencana Wisata Semesta",
+    "kota_asal": "Lombok",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@kencanawisata.co.id",
+      "telepon": "+6283091246892"
+    }
+  },
+  {
+    "nama": "PT Jelajah Utama Indonesia",
+    "kota_asal": "Denpasar",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@jelajahutama.co.id",
+      "telepon": "+6282361833010"
+    }
+  },
+  {
+    "nama": "PT Pesona Lestari Adventure",
+    "kota_asal": "Balikpapan",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@pesonalestari.co.id",
+      "telepon": "+6285485313678"
+    }
+  },
+  {
+    "nama": "PT Nusantara Jaya Voyage",
+    "kota_asal": "Denpasar",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@nusantarajaya.co.id",
+      "telepon": "+6288229616633"
+    }
+  },
+  {
+    "nama": "PT Bumi Sejahtera Indonesia",
+    "kota_asal": "Malang",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@bumisejahtera.co.id",
+      "telepon": "+6282345712787"
+    }
+  },
+  {
+    "nama": "PT Pelita Makmur Travel",
+    "kota_asal": "Medan",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@pelitamakmur.co.id",
+      "telepon": "+6288375694369"
+    }
+  },
+  {
+    "nama": "PT Bahari Langkah Tour & Travel",
+    "kota_asal": "Medan",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@baharilangkah.co.id",
+      "telepon": "+6281219826042"
+    }
+  },
+  {
+    "nama": "PT Dewata Sukses Travel",
+    "kota_asal": "Denpasar",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@dewatasukses.co.id",
+      "telepon": "+6281110967678"
+    }
+  },
+  {
+    "nama": "PT Adidaya Wisata Holiday",
+    "kota_asal": "Makassar",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@adidayawisata.co.id",
+      "telepon": "+6281078347942"
+    }
+  },
+  {
+    "nama": "PT Mahameru Utama Tour & Travel",
+    "kota_asal": "Padang",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@mahameruutama.co.id",
+      "telepon": "+6285769240273"
+    }
+  },
+  {
+    "nama": "PT Cakrawala Wisata Tour & Travel",
+    "kota_asal": "Semarang",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@cakrawalawisata.co.id",
+      "telepon": "+6285141397548"
+    }
+  },
+  {
+    "nama": "PT Andalas Nirwana Voyage",
+    "kota_asal": "Padang",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@andalasnirwana.co.id",
+      "telepon": "+6281204734827"
+    }
+  },
+  {
+    "nama": "PT Purnama Prima Travel",
+    "kota_asal": "Surabaya",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@purnamaprima.co.id",
+      "telepon": "+6284556341342"
+    }
+  },
+  {
+    "nama": "PT Bumi Sejati Holiday",
+    "kota_asal": "Lombok",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@bumisejati.co.id",
+      "telepon": "+6283452724090"
+    }
+  },
+  {
+    "nama": "PT Nusantara Global Travel",
+    "kota_asal": "Surabaya",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@nusantaraglobal.co.id",
+      "telepon": "+6284824510394"
+    }
+  },
+  {
+    "nama": "PT Kencana Abadi Holiday",
+    "kota_asal": "Denpasar",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@kencanaabadi.co.id",
+      "telepon": "+6281338764385"
+    }
+  },
+  {
+    "nama": "PT Ananta Nirwana Expedition",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@anantanirwana.co.id",
+      "telepon": "+6285261361432"
+    }
+  },
+  {
+    "nama": "PT Bintang Wisata Perkasa",
+    "kota_asal": "Bandung",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@bintangwisata.co.id",
+      "telepon": "+6288702464287"
+    }
+  },
+  {
+    "nama": "PT Tri Tunggal Harmoni Semesta",
+    "kota_asal": "Makassar",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@tritunggalharmoni.co.id",
+      "telepon": "+6281604797151"
+    }
+  },
+  {
+    "nama": "PT Gema Makmur Indonesia",
+    "kota_asal": "Semarang",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@gemamakmur.co.id",
+      "telepon": "+6281880074242"
+    }
+  },
+  {
+    "nama": "PT Dewata Sukses Indonesia",
+    "kota_asal": "Malang",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@dewatasukses.co.id",
+      "telepon": "+6286084253818"
+    }
+  },
+  {
+    "nama": "PT Tri Tunggal Wisata Travel",
+    "kota_asal": "Lombok",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@tritunggalwisata.co.id",
+      "telepon": "+6281846515648"
+    }
+  },
+  {
+    "nama": "PT Khatulistiwa Abadi Tour & Travel",
+    "kota_asal": "Medan",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@khatulistiwaabadi.co.id",
+      "telepon": "+6288669964020"
+    }
+  },
+  {
+    "nama": "PT Kencana Sejati Internasional",
+    "kota_asal": "Lombok",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@kencanasejati.co.id",
+      "telepon": "+6286048899712"
+    }
+  },
+  {
+    "nama": "PT Ananta Nusa Voyage",
+    "kota_asal": "Makassar",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@anantanusa.co.id",
+      "telepon": "+6289956993315"
+    }
+  },
+  {
+    "nama": "PT Dewata Tour Holiday",
+    "kota_asal": "Surabaya",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@dewatatour.co.id",
+      "telepon": "+6287073103878"
+    }
+  },
+  {
+    "nama": "PT Adidaya Kencana Perkasa",
+    "kota_asal": "Padang",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@adidayakencana.co.id",
+      "telepon": "+6282717235613"
+    }
+  },
+  {
+    "nama": "PT Pesona Global Perkasa",
+    "kota_asal": "Padang",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@pesonaglobal.co.id",
+      "telepon": "+6287087888512"
+    }
+  },
+  {
+    "nama": "PT Purnama Nirwana Perkasa",
+    "kota_asal": "Semarang",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@purnamanirwana.co.id",
+      "telepon": "+6285278731170"
+    }
+  },
+  {
+    "nama": "PT Mega Jaya Internasional",
+    "kota_asal": "Lombok",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@megajaya.co.id",
+      "telepon": "+6283103479660"
+    }
+  },
+  {
+    "nama": "PT Bahari Global Travel",
+    "kota_asal": "Makassar",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@bahariglobal.co.id",
+      "telepon": "+6282403373034"
+    }
+  },
+  {
+    "nama": "PT Borneo Tour Travel",
+    "kota_asal": "Semarang",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@borneotour.co.id",
+      "telepon": "+6284840759518"
+    }
+  },
+  {
+    "nama": "PT Dewata Mandiri Adventure",
+    "kota_asal": "Medan",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@dewatamandiri.co.id",
+      "telepon": "+6288488282633"
+    }
+  },
+  {
+    "nama": "PT Andalas Kencana Holiday",
+    "kota_asal": "Semarang",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@andalaskencana.co.id",
+      "telepon": "+6282078637010"
+    }
+  },
+  {
+    "nama": "PT Rimba Global Expedition",
+    "kota_asal": "Makassar",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@rimbaglobal.co.id",
+      "telepon": "+6285050542218"
+    }
+  },
+  {
+    "nama": "PT Pandawa Langkah Tour & Travel",
+    "kota_asal": "Bandung",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@pandawalangkah.co.id",
+      "telepon": "+6287525868213"
+    }
+  },
+  {
+    "nama": "PT Tri Tunggal Utama Tour & Travel",
+    "kota_asal": "Semarang",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@tritunggalutama.co.id",
+      "telepon": "+6287046539103"
+    }
+  },
+  {
+    "nama": "PT Surya Sejati Travel",
+    "kota_asal": "Surabaya",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@suryasejati.co.id",
+      "telepon": "+6285635789809"
+    }
+  },
+  {
+    "nama": "PT Baruna Abadi Voyage",
+    "kota_asal": "Medan",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@barunaabadi.co.id",
+      "telepon": "+6282960826458"
+    }
+  },
+  {
+    "nama": "PT Surya Jaya Travel",
+    "kota_asal": "Lombok",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@suryajaya.co.id",
+      "telepon": "+6282443989808"
+    }
+  },
+  {
+    "nama": "PT Jelajah Mandiri Tour & Travel",
+    "kota_asal": "Semarang",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@jelajahmandiri.co.id",
+      "telepon": "+6285161582071"
+    }
+  },
+  {
+    "nama": "PT Rimba Sejahtera Semesta",
+    "kota_asal": "Denpasar",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@rimbasejahtera.co.id",
+      "telepon": "+6283787259281"
+    }
+  },
+  {
+    "nama": "PT Purnama Prima Holiday",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@purnamaprima.co.id",
+      "telepon": "+6285786298063"
+    }
+  },
+  {
+    "nama": "PT Purnama Sejahtera Perkasa",
+    "kota_asal": "Semarang",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@purnamasejahtera.co.id",
+      "telepon": "+6286181423527"
+    }
+  },
+  {
+    "nama": "PT Pelita Tour Perkasa",
+    "kota_asal": "Malang",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@pelitatour.co.id",
+      "telepon": "+6284599251466"
+    }
+  },
+  {
+    "nama": "PT Nusantara Tour Perkasa",
+    "kota_asal": "Bandung",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@nusantaratour.co.id",
+      "telepon": "+6289969567186"
+    }
+  },
+  {
+    "nama": "PT Cakrawala Kreasi Perkasa",
+    "kota_asal": "Malang",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@cakrawalakreasi.co.id",
+      "telepon": "+6281260646573"
+    }
+  },
+  {
+    "nama": "PT Lentera Sejahtera Semesta",
+    "kota_asal": "Padang",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@lenterasejahtera.co.id",
+      "telepon": "+6285472391829"
+    }
+  },
+  {
+    "nama": "PT Andalas Sejahtera Tour & Travel",
+    "kota_asal": "Lombok",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@andalassejahtera.co.id",
+      "telepon": "+6287177417616"
+    }
+  },
+  {
+    "nama": "PT Mega Sejahtera Perkasa",
+    "kota_asal": "Semarang",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@megasejahtera.co.id",
+      "telepon": "+6283207895289"
+    }
+  },
+  {
+    "nama": "PT Borneo Utama Semesta",
+    "kota_asal": "Semarang",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@borneoutama.co.id",
+      "telepon": "+6282322788453"
+    }
+  },
+  {
+    "nama": "PT Swarna Harmoni Adventure",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@swarnaharmoni.co.id",
+      "telepon": "+6286444980215"
+    }
+  },
+  {
+    "nama": "PT Jelajah Sejati Voyage",
+    "kota_asal": "Padang",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@jelajahsejati.co.id",
+      "telepon": "+6288883290543"
+    }
+  },
+  {
+    "nama": "PT Ananta Harmoni Internasional",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@anantaharmoni.co.id",
+      "telepon": "+6282302301940"
+    }
+  },
+  {
+    "nama": "PT Purnama Kencana Semesta",
+    "kota_asal": "Yogyakarta",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@purnamakencana.co.id",
+      "telepon": "+6288412584444"
+    }
+  },
+  {
+    "nama": "PT Bintang Mandiri Voyage",
+    "kota_asal": "Malang",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@bintangmandiri.co.id",
+      "telepon": "+6281660927940"
+    }
+  },
+  {
+    "nama": "PT Mahameru Lestari Expedition",
+    "kota_asal": "Surabaya",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@mahamerulestari.co.id",
+      "telepon": "+6281015803003"
+    }
+  },
+  {
+    "nama": "PT Mega Kencana Semesta",
+    "kota_asal": "Malang",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@megakencana.co.id",
+      "telepon": "+6284853148667"
+    }
+  },
+  {
+    "nama": "PT Lentera Sejati Tour & Travel",
+    "kota_asal": "Medan",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@lenterasejati.co.id",
+      "telepon": "+6283715139662"
+    }
+  },
+  {
+    "nama": "PT Pelita Tour Holiday",
+    "kota_asal": "Denpasar",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@pelitatour.co.id",
+      "telepon": "+6288373392500"
+    }
+  },
+  {
+    "nama": "PT Lentera Tour Voyage",
+    "kota_asal": "Padang",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@lenteratour.co.id",
+      "telepon": "+6289770760978"
+    }
+  },
+  {
+    "nama": "PT Adidaya Jaya Semesta",
+    "kota_asal": "Balikpapan",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@adidayajaya.co.id",
+      "telepon": "+6284023737352"
+    }
+  },
+  {
+    "nama": "PT Adidaya Kencana Perkasa",
+    "kota_asal": "Semarang",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@adidayakencana.co.id",
+      "telepon": "+6285832745922"
+    }
+  },
+  {
+    "nama": "PT Mitra Tour Perkasa",
+    "kota_asal": "Lombok",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@mitratour.co.id",
+      "telepon": "+6281127128220"
+    }
+  },
+  {
+    "nama": "PT Mega Kreasi Voyage",
+    "kota_asal": "Balikpapan",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@megakreasi.co.id",
+      "telepon": "+6282608583593"
+    }
+  },
+  {
+    "nama": "PT Samudra Sejahtera Semesta",
+    "kota_asal": "Balikpapan",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@samudrasejahtera.co.id",
+      "telepon": "+6282425350298"
+    }
+  },
+  {
+    "nama": "PT Ananta Nirwana Perkasa",
+    "kota_asal": "Lombok",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@anantanirwana.co.id",
+      "telepon": "+6284835627477"
+    }
+  },
+  {
+    "nama": "PT Mitra Sejati Indonesia",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@mitrasejati.co.id",
+      "telepon": "+6282009297620"
+    }
+  },
+  {
+    "nama": "PT Khatulistiwa Tour Expedition",
+    "kota_asal": "Lombok",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@khatulistiwatour.co.id",
+      "telepon": "+6289526087731"
+    }
+  },
+  {
+    "nama": "PT Mitra Kencana Perkasa",
+    "kota_asal": "Malang",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@mitrakencana.co.id",
+      "telepon": "+6286916137027"
+    }
+  },
+  {
+    "nama": "PT Samudra Jaya Adventure",
+    "kota_asal": "Lombok",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@samudrajaya.co.id",
+      "telepon": "+6283658738672"
+    }
+  },
+  {
+    "nama": "PT Baruna Harmoni Perkasa",
+    "kota_asal": "Malang",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@barunaharmoni.co.id",
+      "telepon": "+6285013931195"
+    }
+  },
+  {
+    "nama": "PT Borneo Sukses Perkasa",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@borneosukses.co.id",
+      "telepon": "+6288633800812"
+    }
+  },
+  {
+    "nama": "PT Borneo Makmur Indonesia",
+    "kota_asal": "Medan",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@borneomakmur.co.id",
+      "telepon": "+6282454812075"
+    }
+  },
+  {
+    "nama": "PT Adidaya Lestari Perkasa",
+    "kota_asal": "Lombok",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@adidayalestari.co.id",
+      "telepon": "+6282143851602"
+    }
+  },
+  {
+    "nama": "PT Pelita Langkah Travel",
+    "kota_asal": "Balikpapan",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@pelitalangkah.co.id",
+      "telepon": "+6286392789923"
+    }
+  },
+  {
+    "nama": "PT Tri Tunggal Sukses Tour & Travel",
+    "kota_asal": "Medan",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@tritunggalsukses.co.id",
+      "telepon": "+6284669490947"
+    }
+  },
+  {
+    "nama": "PT Nusantara Prima Tour & Travel",
+    "kota_asal": "Makassar",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@nusantaraprima.co.id",
+      "telepon": "+6287781354194"
+    }
+  },
+  {
+    "nama": "PT Pesona Kreasi Internasional",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@pesonakreasi.co.id",
+      "telepon": "+6283620317981"
+    }
+  },
+  {
+    "nama": "PT Kencana Langkah Indonesia",
+    "kota_asal": "Malang",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@kencanalangkah.co.id",
+      "telepon": "+6289773429661"
+    }
+  },
+  {
+    "nama": "PT Gema Lestari Voyage",
+    "kota_asal": "Lombok",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@gemalestari.co.id",
+      "telepon": "+6287130633832"
+    }
+  },
+  {
+    "nama": "PT Lentera Harmoni Internasional",
+    "kota_asal": "Malang",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@lenteraharmoni.co.id",
+      "telepon": "+6285860883766"
+    }
+  },
+  {
+    "nama": "PT Andalas Wisata Perkasa",
+    "kota_asal": "Bandung",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@andalaswisata.co.id",
+      "telepon": "+6289010326227"
+    }
+  },
+  {
+    "nama": "PT Purnama Global Travel",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@purnamaglobal.co.id",
+      "telepon": "+6285923597364"
+    }
+  },
+  {
+    "nama": "PT Rimba Prima Travel",
+    "kota_asal": "Surabaya",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@rimbaprima.co.id",
+      "telepon": "+6282175925954"
+    }
+  },
+  {
+    "nama": "PT Borneo Langkah Voyage",
+    "kota_asal": "Medan",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@borneolangkah.co.id",
+      "telepon": "+6283381412622"
+    }
+  },
+  {
+    "nama": "PT Ananta Lestari Semesta",
+    "kota_asal": "Bandung",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@anantalestari.co.id",
+      "telepon": "+6286389120305"
+    }
+  },
+  {
+    "nama": "PT Tri Tunggal Lestari Indonesia",
+    "kota_asal": "Bandung",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@tritunggallestari.co.id",
+      "telepon": "+6287263940462"
+    }
+  },
+  {
+    "nama": "PT Andalas Utama Voyage",
+    "kota_asal": "Semarang",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@andalasutama.co.id",
+      "telepon": "+6282408499306"
+    }
+  },
+  {
+    "nama": "PT Jelajah Wisata Indonesia",
+    "kota_asal": "Medan",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@jelajahwisata.co.id",
+      "telepon": "+6289487331422"
+    }
+  },
+  {
+    "nama": "PT Surya Global Internasional",
+    "kota_asal": "Bandung",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@suryaglobal.co.id",
+      "telepon": "+6288765365574"
+    }
+  },
+  {
+    "nama": "PT Samudra Global Semesta",
+    "kota_asal": "Medan",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@samudraglobal.co.id",
+      "telepon": "+6289156900361"
+    }
+  },
+  {
+    "nama": "PT Swarna Langkah Expedition",
+    "kota_asal": "Balikpapan",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@swarnalangkah.co.id",
+      "telepon": "+6284840659285"
+    }
+  },
+  {
+    "nama": "PT Bintang Jaya Indonesia",
+    "kota_asal": "Medan",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@bintangjaya.co.id",
+      "telepon": "+6287112561965"
+    }
+  },
+  {
+    "nama": "PT Kencana Makmur Holiday",
+    "kota_asal": "Surabaya",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@kencanamakmur.co.id",
+      "telepon": "+6282306562456"
+    }
+  },
+  {
+    "nama": "PT Lentera Mandiri Internasional",
+    "kota_asal": "Lombok",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@lenteramandiri.co.id",
+      "telepon": "+6282042393713"
+    }
+  },
+  {
+    "nama": "PT Lentera Nirwana Holiday",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@lenteranirwana.co.id",
+      "telepon": "+6281261942717"
+    }
+  },
+  {
+    "nama": "PT Pesona Prima Expedition",
+    "kota_asal": "Malang",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@pesonaprima.co.id",
+      "telepon": "+6287303136704"
+    }
+  },
+  {
+    "nama": "PT Surya Wisata Travel",
+    "kota_asal": "Bandung",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@suryawisata.co.id",
+      "telepon": "+6282818772928"
+    }
+  },
+  {
+    "nama": "PT Ananta Prima Perkasa",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@anantaprima.co.id",
+      "telepon": "+6283291434427"
+    }
+  },
+  {
+    "nama": "PT Dewata Sejahtera Perkasa",
+    "kota_asal": "Lombok",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@dewatasejahtera.co.id",
+      "telepon": "+6288374042617"
+    }
+  },
+  {
+    "nama": "PT Swarna Jaya Expedition",
+    "kota_asal": "Lombok",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@swarnajaya.co.id",
+      "telepon": "+6289279056494"
+    }
+  },
+  {
+    "nama": "PT Samudra Lestari Semesta",
+    "kota_asal": "Padang",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@samudralestari.co.id",
+      "telepon": "+6284448403424"
+    }
+  },
+  {
+    "nama": "PT Mahameru Sukses Indonesia",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@mahamerusukses.co.id",
+      "telepon": "+6283151965727"
+    }
+  },
+  {
+    "nama": "PT Purnama Prima Expedition",
+    "kota_asal": "Semarang",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@purnamaprima.co.id",
+      "telepon": "+6286871111230"
+    }
+  },
+  {
+    "nama": "PT Bintang Prima Expedition",
+    "kota_asal": "Lombok",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@bintangprima.co.id",
+      "telepon": "+6282116674928"
+    }
+  },
+  {
+    "nama": "PT Dewata Nusa Adventure",
+    "kota_asal": "Medan",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@dewatanusa.co.id",
+      "telepon": "+6284728102077"
+    }
+  },
+  {
+    "nama": "PT Borneo Abadi Tour & Travel",
+    "kota_asal": "Medan",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@borneoabadi.co.id",
+      "telepon": "+6285186409626"
+    }
+  },
+  {
+    "nama": "PT Bintang Mandiri Expedition",
+    "kota_asal": "Malang",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@bintangmandiri.co.id",
+      "telepon": "+6287187063567"
+    }
+  },
+  {
+    "nama": "PT Pandawa Sejati Indonesia",
+    "kota_asal": "Malang",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@pandawasejati.co.id",
+      "telepon": "+6284098737412"
+    }
+  },
+  {
+    "nama": "PT Dewata Langkah Semesta",
+    "kota_asal": "Padang",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@dewatalangkah.co.id",
+      "telepon": "+6283989759956"
+    }
+  },
+  {
+    "nama": "PT Pelita Jaya Expedition",
+    "kota_asal": "Makassar",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@pelitajaya.co.id",
+      "telepon": "+6282577649520"
+    }
+  },
+  {
+    "nama": "PT Nusantara Sejahtera Adventure",
+    "kota_asal": "Makassar",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@nusantarasejahtera.co.id",
+      "telepon": "+6286244451551"
+    }
+  },
+  {
+    "nama": "PT Pelita Langkah Indonesia",
+    "kota_asal": "Padang",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@pelitalangkah.co.id",
+      "telepon": "+6289357977802"
+    }
+  },
+  {
+    "nama": "PT Mega Sentosa Expedition",
+    "kota_asal": "Balikpapan",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@megasentosa.co.id",
+      "telepon": "+6287804635602"
+    }
+  },
+  {
+    "nama": "PT Purnama Lestari Perkasa",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@purnamalestari.co.id",
+      "telepon": "+6283181538917"
+    }
+  },
+  {
+    "nama": "PT Baruna Sejahtera Travel",
+    "kota_asal": "Medan",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@barunasejahtera.co.id",
+      "telepon": "+6283433344659"
+    }
+  },
+  {
+    "nama": "PT Nusantara Prima Semesta",
+    "kota_asal": "Malang",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@nusantaraprima.co.id",
+      "telepon": "+6282711739012"
+    }
+  },
+  {
+    "nama": "PT Garuda Jaya Holiday",
+    "kota_asal": "Padang",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@garudajaya.co.id",
+      "telepon": "+6289864675144"
+    }
+  },
+  {
+    "nama": "PT Lentera Tour Internasional",
+    "kota_asal": "Bandung",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@lenteratour.co.id",
+      "telepon": "+6289528689092"
+    }
+  },
+  {
+    "nama": "PT Mahameru Global Expedition",
+    "kota_asal": "Malang",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@mahameruglobal.co.id",
+      "telepon": "+6282774103937"
+    }
+  },
+  {
+    "nama": "PT Swarna Nirwana Voyage",
+    "kota_asal": "Denpasar",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@swarnanirwana.co.id",
+      "telepon": "+6289156391643"
+    }
+  },
+  {
+    "nama": "PT Pesona Global Adventure",
+    "kota_asal": "Surabaya",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@pesonaglobal.co.id",
+      "telepon": "+6287505104569"
+    }
+  },
+  {
+    "nama": "PT Aruna Lestari Expedition",
+    "kota_asal": "Makassar",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@arunalestari.co.id",
+      "telepon": "+6289939467961"
+    }
+  },
+  {
+    "nama": "PT Pandawa Abadi Travel",
+    "kota_asal": "Surabaya",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@pandawaabadi.co.id",
+      "telepon": "+6287997604756"
+    }
+  },
+  {
+    "nama": "PT Garuda Sukses Adventure",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@garudasukses.co.id",
+      "telepon": "+6288262099295"
+    }
+  },
+  {
+    "nama": "PT Borneo Sejati Holiday",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@borneosejati.co.id",
+      "telepon": "+6288144796010"
+    }
+  },
+  {
+    "nama": "PT Pelita Nirwana Tour & Travel",
+    "kota_asal": "Semarang",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@pelitanirwana.co.id",
+      "telepon": "+6285009863595"
+    }
+  },
+  {
+    "nama": "PT Bintang Sukses Tour & Travel",
+    "kota_asal": "Surabaya",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@bintangsukses.co.id",
+      "telepon": "+6281596258857"
+    }
+  },
+  {
+    "nama": "PT Ananta Sejati Expedition",
+    "kota_asal": "Medan",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@anantasejati.co.id",
+      "telepon": "+6289508525892"
+    }
+  },
+  {
+    "nama": "PT Bumi Sejahtera Indonesia",
+    "kota_asal": "Surabaya",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@bumisejahtera.co.id",
+      "telepon": "+6283319076667"
+    }
+  },
+  {
+    "nama": "PT Pesona Kreasi Perkasa",
+    "kota_asal": "Lombok",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@pesonakreasi.co.id",
+      "telepon": "+6287092657078"
+    }
+  },
+  {
+    "nama": "PT Aruna Wisata Expedition",
+    "kota_asal": "Makassar",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@arunawisata.co.id",
+      "telepon": "+6281356134713"
+    }
+  },
+  {
+    "nama": "PT Pandawa Makmur Holiday",
+    "kota_asal": "Balikpapan",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@pandawamakmur.co.id",
+      "telepon": "+6285059134510"
+    }
+  },
+  {
+    "nama": "PT Kencana Global Expedition",
+    "kota_asal": "Bandung",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@kencanaglobal.co.id",
+      "telepon": "+6283999009194"
+    }
+  },
+  {
+    "nama": "PT Nusantara Nirwana Perkasa",
+    "kota_asal": "Balikpapan",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@nusantaranirwana.co.id",
+      "telepon": "+6289756459088"
+    }
+  },
+  {
+    "nama": "PT Cakrawala Wisata Adventure",
+    "kota_asal": "Balikpapan",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@cakrawalawisata.co.id",
+      "telepon": "+6285034061540"
+    }
+  },
+  {
+    "nama": "PT Ananta Global Holiday",
+    "kota_asal": "Denpasar",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@anantaglobal.co.id",
+      "telepon": "+6285666670758"
+    }
+  },
+  {
+    "nama": "PT Cakrawala Utama Voyage",
+    "kota_asal": "Denpasar",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@cakrawalautama.co.id",
+      "telepon": "+6285890243842"
+    }
+  },
+  {
+    "nama": "PT Pandawa Global Travel",
+    "kota_asal": "Padang",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@pandawaglobal.co.id",
+      "telepon": "+6288412147665"
+    }
+  },
+  {
+    "nama": "PT Jelajah Mandiri Expedition",
+    "kota_asal": "Malang",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@jelajahmandiri.co.id",
+      "telepon": "+6289369668567"
+    }
+  },
+  {
+    "nama": "PT Baruna Sejati Expedition",
+    "kota_asal": "Balikpapan",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@barunasejati.co.id",
+      "telepon": "+6286712514216"
+    }
+  },
+  {
+    "nama": "PT Andalas Jaya Holiday",
+    "kota_asal": "Denpasar",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@andalasjaya.co.id",
+      "telepon": "+6286167341642"
+    }
+  },
+  {
+    "nama": "PT Bintang Mandiri Internasional",
+    "kota_asal": "Padang",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@bintangmandiri.co.id",
+      "telepon": "+6282476137168"
+    }
+  },
+  {
+    "nama": "PT Garuda Nusa Expedition",
+    "kota_asal": "Balikpapan",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@garudanusa.co.id",
+      "telepon": "+6285258661390"
+    }
+  },
+  {
+    "nama": "PT Lentera Jaya Travel",
+    "kota_asal": "Denpasar",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@lenterajaya.co.id",
+      "telepon": "+6287194777619"
+    }
+  },
+  {
+    "nama": "PT Ananta Nusa Perkasa",
+    "kota_asal": "Balikpapan",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@anantanusa.co.id",
+      "telepon": "+6281890384856"
+    }
+  },
+  {
+    "nama": "PT Garuda Lestari Holiday",
+    "kota_asal": "Denpasar",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@garudalestari.co.id",
+      "telepon": "+6289114426899"
+    }
+  },
+  {
+    "nama": "PT Purnama Mandiri Semesta",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@purnamamandiri.co.id",
+      "telepon": "+6283306842194"
+    }
+  },
+  {
+    "nama": "PT Rimba Sejahtera Adventure",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@rimbasejahtera.co.id",
+      "telepon": "+6285747999486"
+    }
+  },
+  {
+    "nama": "PT Baruna Global Voyage",
+    "kota_asal": "Medan",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@barunaglobal.co.id",
+      "telepon": "+6289223630542"
+    }
+  },
+  {
+    "nama": "PT Gema Utama Holiday",
+    "kota_asal": "Malang",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@gemautama.co.id",
+      "telepon": "+6284787475930"
+    }
+  },
+  {
+    "nama": "PT Bintang Utama Tour & Travel",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@bintangutama.co.id",
+      "telepon": "+6282308248396"
+    }
+  },
+  {
+    "nama": "PT Cakrawala Harmoni Perkasa",
+    "kota_asal": "Malang",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@cakrawalaharmoni.co.id",
+      "telepon": "+6288024369867"
+    }
+  },
+  {
+    "nama": "PT Surya Kreasi Indonesia",
+    "kota_asal": "Lombok",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@suryakreasi.co.id",
+      "telepon": "+6287339729439"
+    }
+  },
+  {
+    "nama": "PT Mega Harmoni Adventure",
+    "kota_asal": "Malang",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@megaharmoni.co.id",
+      "telepon": "+6284956178350"
+    }
+  },
+  {
+    "nama": "PT Borneo Tour Tour & Travel",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@borneotour.co.id",
+      "telepon": "+6284608226354"
+    }
+  },
+  {
+    "nama": "PT Purnama Sentosa Holiday",
+    "kota_asal": "Malang",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@purnamasentosa.co.id",
+      "telepon": "+6288392399148"
+    }
+  },
+  {
+    "nama": "PT Kencana Sukses Semesta",
+    "kota_asal": "Balikpapan",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@kencanasukses.co.id",
+      "telepon": "+6281109805006"
+    }
+  },
+  {
+    "nama": "PT Jelajah Wisata Semesta",
+    "kota_asal": "Semarang",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@jelajahwisata.co.id",
+      "telepon": "+6284263316742"
+    }
+  },
+  {
+    "nama": "PT Bumi Kreasi Tour & Travel",
+    "kota_asal": "Surabaya",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@bumikreasi.co.id",
+      "telepon": "+6284196600200"
+    }
+  },
+  {
+    "nama": "PT Swarna Harmoni Holiday",
+    "kota_asal": "Lombok",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@swarnaharmoni.co.id",
+      "telepon": "+6289703091116"
+    }
+  },
+  {
+    "nama": "PT Pesona Wisata Holiday",
+    "kota_asal": "Balikpapan",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@pesonawisata.co.id",
+      "telepon": "+6281883966275"
+    }
+  },
+  {
+    "nama": "PT Borneo Mandiri Perkasa",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@borneomandiri.co.id",
+      "telepon": "+6282416695003"
+    }
+  },
+  {
+    "nama": "PT Mahameru Makmur Voyage",
+    "kota_asal": "Medan",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@mahamerumakmur.co.id",
+      "telepon": "+6286004182756"
+    }
+  },
+  {
+    "nama": "PT Pesona Wisata Perkasa",
+    "kota_asal": "Lombok",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@pesonawisata.co.id",
+      "telepon": "+6283589998000"
+    }
+  },
+  {
+    "nama": "PT Pandawa Tour Semesta",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@pandawatour.co.id",
+      "telepon": "+6281662879391"
+    }
+  },
+  {
+    "nama": "PT Swarna Abadi Holiday",
+    "kota_asal": "Bandung",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@swarnaabadi.co.id",
+      "telepon": "+6285865064545"
+    }
+  },
+  {
+    "nama": "PT Mega Tour Holiday",
+    "kota_asal": "Bandung",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@megatour.co.id",
+      "telepon": "+6287317534658"
+    }
+  },
+  {
+    "nama": "PT Cakrawala Global Voyage",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@cakrawalaglobal.co.id",
+      "telepon": "+6289235978894"
+    }
+  },
+  {
+    "nama": "PT Gema Utama Perkasa",
+    "kota_asal": "Semarang",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@gemautama.co.id",
+      "telepon": "+6285623261138"
+    }
+  },
+  {
+    "nama": "PT Kencana Kreasi Semesta",
+    "kota_asal": "Malang",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@kencanakreasi.co.id",
+      "telepon": "+6287127100386"
+    }
+  },
+  {
+    "nama": "PT Adidaya Tour Adventure",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@adidayatour.co.id",
+      "telepon": "+6283724958135"
+    }
+  },
+  {
+    "nama": "PT Purnama Nirwana Holiday",
+    "kota_asal": "Yogyakarta",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@purnamanirwana.co.id",
+      "telepon": "+6284823658199"
+    }
+  },
+  {
+    "nama": "PT Samudra Global Travel",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@samudraglobal.co.id",
+      "telepon": "+6287727703004"
+    }
+  },
+  {
+    "nama": "PT Pelita Sukses Voyage",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@pelitasukses.co.id",
+      "telepon": "+6281401568407"
+    }
+  },
+  {
+    "nama": "PT Purnama Wisata Indonesia",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@purnamawisata.co.id",
+      "telepon": "+6285262815509"
+    }
+  },
+  {
+    "nama": "PT Surya Prima Holiday",
+    "kota_asal": "Lombok",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@suryaprima.co.id",
+      "telepon": "+6284249648598"
+    }
+  },
+  {
+    "nama": "PT Cakrawala Sejahtera Indonesia",
+    "kota_asal": "Semarang",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@cakrawalasejahtera.co.id",
+      "telepon": "+6283989563111"
+    }
+  },
+  {
+    "nama": "PT Swarna Nirwana Holiday",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@swarnanirwana.co.id",
+      "telepon": "+6287993365926"
+    }
+  },
+  {
+    "nama": "PT Purnama Lestari Voyage",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@purnamalestari.co.id",
+      "telepon": "+6286754526413"
+    }
+  },
+  {
+    "nama": "PT Mega Nusa Perkasa",
+    "kota_asal": "Padang",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@meganusa.co.id",
+      "telepon": "+6283244292287"
+    }
+  },
+  {
+    "nama": "PT Mega Langkah Travel",
+    "kota_asal": "Padang",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@megalangkah.co.id",
+      "telepon": "+6284837497680"
+    }
+  },
+  {
+    "nama": "PT Ananta Sentosa Expedition",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@anantasentosa.co.id",
+      "telepon": "+6284989973788"
+    }
+  },
+  {
+    "nama": "PT Mitra Kreasi Indonesia",
+    "kota_asal": "Bandung",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@mitrakreasi.co.id",
+      "telepon": "+6281645474269"
+    }
+  },
+  {
+    "nama": "PT Rimba Sentosa Perkasa",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@rimbasentosa.co.id",
+      "telepon": "+6285373906305"
+    }
+  },
+  {
+    "nama": "PT Pandawa Prima Indonesia",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@pandawaprima.co.id",
+      "telepon": "+6283640004252"
+    }
+  },
+  {
+    "nama": "PT Baruna Langkah Internasional",
+    "kota_asal": "Malang",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@barunalangkah.co.id",
+      "telepon": "+6286875513589"
+    }
+  },
+  {
+    "nama": "PT Samudra Nusa Expedition",
+    "kota_asal": "Denpasar",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@samudranusa.co.id",
+      "telepon": "+6283677614028"
+    }
+  },
+  {
+    "nama": "PT Jelajah Global Holiday",
+    "kota_asal": "Denpasar",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@jelajahglobal.co.id",
+      "telepon": "+6282624924857"
+    }
+  },
+  {
+    "nama": "PT Borneo Lestari Adventure",
+    "kota_asal": "Padang",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@borneolestari.co.id",
+      "telepon": "+6281021176403"
+    }
+  },
+  {
+    "nama": "PT Dewata Langkah Tour & Travel",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@dewatalangkah.co.id",
+      "telepon": "+6282984955730"
+    }
+  },
+  {
+    "nama": "PT Adidaya Mandiri Internasional",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@adidayamandiri.co.id",
+      "telepon": "+6281453561255"
+    }
+  },
+  {
+    "nama": "PT Purnama Kreasi Perkasa",
+    "kota_asal": "Malang",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@purnamakreasi.co.id",
+      "telepon": "+6287351752361"
+    }
+  },
+  {
+    "nama": "PT Mitra Wisata Perkasa",
+    "kota_asal": "Malang",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@mitrawisata.co.id",
+      "telepon": "+6281043551710"
+    }
+  },
+  {
+    "nama": "PT Nusantara Jaya Expedition",
+    "kota_asal": "Surabaya",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@nusantarajaya.co.id",
+      "telepon": "+6289915528121"
+    }
+  },
+  {
+    "nama": "PT Mitra Tour Voyage",
+    "kota_asal": "Padang",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@mitratour.co.id",
+      "telepon": "+6282330232346"
+    }
+  },
+  {
+    "nama": "PT Mitra Global Voyage",
+    "kota_asal": "Surabaya",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@mitraglobal.co.id",
+      "telepon": "+6281575758314"
+    }
+  },
+  {
+    "nama": "PT Mega Kencana Expedition",
+    "kota_asal": "Balikpapan",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@megakencana.co.id",
+      "telepon": "+6284213525412"
+    }
+  },
+  {
+    "nama": "PT Borneo Lestari Holiday",
+    "kota_asal": "Malang",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@borneolestari.co.id",
+      "telepon": "+6282403249056"
+    }
+  },
+  {
+    "nama": "PT Lentera Utama Internasional",
+    "kota_asal": "Lombok",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@lenterautama.co.id",
+      "telepon": "+6288441804878"
+    }
+  },
+  {
+    "nama": "PT Purnama Sukses Adventure",
+    "kota_asal": "Lombok",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@purnamasukses.co.id",
+      "telepon": "+6283418261764"
+    }
+  },
+  {
+    "nama": "PT Rimba Kreasi Perkasa",
+    "kota_asal": "Lombok",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@rimbakreasi.co.id",
+      "telepon": "+6287199786436"
+    }
+  },
+  {
+    "nama": "PT Mitra Global Semesta",
+    "kota_asal": "Medan",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@mitraglobal.co.id",
+      "telepon": "+6282285648921"
+    }
+  },
+  {
+    "nama": "PT Swarna Sejati Holiday",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@swarnasejati.co.id",
+      "telepon": "+6289869314767"
+    }
+  },
+  {
+    "nama": "PT Dewata Global Expedition",
+    "kota_asal": "Surabaya",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@dewataglobal.co.id",
+      "telepon": "+6283157140793"
+    }
+  },
+  {
+    "nama": "PT Mega Tour Tour & Travel",
+    "kota_asal": "Semarang",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@megatour.co.id",
+      "telepon": "+6283996149135"
+    }
+  },
+  {
+    "nama": "PT Pandawa Abadi Travel",
+    "kota_asal": "Makassar",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@pandawaabadi.co.id",
+      "telepon": "+6283125095456"
+    }
+  },
+  {
+    "nama": "PT Purnama Abadi Internasional",
+    "kota_asal": "Balikpapan",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@purnamaabadi.co.id",
+      "telepon": "+6283434177177"
+    }
+  },
+  {
+    "nama": "PT Bumi Sukses Travel",
+    "kota_asal": "Makassar",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@bumisukses.co.id",
+      "telepon": "+6284653693682"
+    }
+  },
+  {
+    "nama": "PT Ananta Nirwana Internasional",
+    "kota_asal": "Medan",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@anantanirwana.co.id",
+      "telepon": "+6286816354592"
+    }
+  },
+  {
+    "nama": "PT Purnama Tour Voyage",
+    "kota_asal": "Medan",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@purnamatour.co.id",
+      "telepon": "+6288595993794"
+    }
+  },
+  {
+    "nama": "PT Ananta Tour Tour & Travel",
+    "kota_asal": "Denpasar",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@anantatour.co.id",
+      "telepon": "+6287473687877"
+    }
+  },
+  {
+    "nama": "PT Nusantara Sejati Tour & Travel",
+    "kota_asal": "Bandung",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@nusantarasejati.co.id",
+      "telepon": "+6285062882342"
+    }
+  },
+  {
+    "nama": "PT Pesona Nirwana Indonesia",
+    "kota_asal": "Denpasar",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@pesonanirwana.co.id",
+      "telepon": "+6289241681416"
+    }
+  },
+  {
+    "nama": "PT Mega Tour Tour & Travel",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@megatour.co.id",
+      "telepon": "+6287384155327"
+    }
+  },
+  {
+    "nama": "PT Lentera Kreasi Indonesia",
+    "kota_asal": "Semarang",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@lenterakreasi.co.id",
+      "telepon": "+6281991060895"
+    }
+  },
+  {
+    "nama": "PT Mahameru Sentosa Expedition",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@mahamerusentosa.co.id",
+      "telepon": "+6281966610304"
+    }
+  },
+  {
+    "nama": "PT Swarna Sukses Tour & Travel",
+    "kota_asal": "Balikpapan",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@swarnasukses.co.id",
+      "telepon": "+6284002425576"
+    }
+  },
+  {
+    "nama": "PT Bahari Langkah Perkasa",
+    "kota_asal": "Balikpapan",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@baharilangkah.co.id",
+      "telepon": "+6286331530518"
+    }
+  },
+  {
+    "nama": "PT Garuda Jaya Voyage",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@garudajaya.co.id",
+      "telepon": "+6289668893305"
+    }
+  },
+  {
+    "nama": "PT Pelita Nirwana Perkasa",
+    "kota_asal": "Semarang",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@pelitanirwana.co.id",
+      "telepon": "+6285229193368"
+    }
+  },
+  {
+    "nama": "PT Aruna Sukses Expedition",
+    "kota_asal": "Medan",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@arunasukses.co.id",
+      "telepon": "+6284102054206"
+    }
+  },
+  {
+    "nama": "PT Pandawa Jaya Travel",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@pandawajaya.co.id",
+      "telepon": "+6283227461728"
+    }
+  },
+  {
+    "nama": "PT Gema Tour Voyage",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@gematour.co.id",
+      "telepon": "+6283108919902"
+    }
+  },
+  {
+    "nama": "PT Lentera Nirwana Tour & Travel",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@lenteranirwana.co.id",
+      "telepon": "+6288384556978"
+    }
+  },
+  {
+    "nama": "PT Baruna Mandiri Tour & Travel",
+    "kota_asal": "Bandung",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@barunamandiri.co.id",
+      "telepon": "+6284577598284"
+    }
+  },
+  {
+    "nama": "PT Samudra Sentosa Voyage",
+    "kota_asal": "Medan",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@samudrasentosa.co.id",
+      "telepon": "+6281225217815"
+    }
+  },
+  {
+    "nama": "PT Samudra Prima Voyage",
+    "kota_asal": "Padang",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@samudraprima.co.id",
+      "telepon": "+6285872394908"
+    }
+  },
+  {
+    "nama": "PT Bintang Wisata Tour & Travel",
+    "kota_asal": "Bandung",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@bintangwisata.co.id",
+      "telepon": "+6287334647288"
+    }
+  },
+  {
+    "nama": "PT Surya Kencana Tour & Travel",
+    "kota_asal": "Lombok",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@suryakencana.co.id",
+      "telepon": "+6285483364646"
+    }
+  },
+  {
+    "nama": "PT Lentera Jaya Internasional",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@lenterajaya.co.id",
+      "telepon": "+6289782297674"
+    }
+  },
+  {
+    "nama": "PT Andalas Global Voyage",
+    "kota_asal": "Makassar",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@andalasglobal.co.id",
+      "telepon": "+6283848141304"
+    }
+  },
+  {
+    "nama": "PT Pelita Utama Voyage",
+    "kota_asal": "Padang",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@pelitautama.co.id",
+      "telepon": "+6288740755935"
+    }
+  },
+  {
+    "nama": "PT Mega Abadi Tour & Travel",
+    "kota_asal": "Yogyakarta",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@megaabadi.co.id",
+      "telepon": "+6281065206136"
+    }
+  },
+  {
+    "nama": "PT Cakrawala Jaya Perkasa",
+    "kota_asal": "Bandung",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@cakrawalajaya.co.id",
+      "telepon": "+6285435145941"
+    }
+  },
+  {
+    "nama": "PT Kencana Langkah Expedition",
+    "kota_asal": "Bandung",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@kencanalangkah.co.id",
+      "telepon": "+6282095579361"
+    }
+  },
+  {
+    "nama": "PT Samudra Global Expedition",
+    "kota_asal": "Balikpapan",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@samudraglobal.co.id",
+      "telepon": "+6284096252983"
+    }
+  },
+  {
+    "nama": "PT Cakrawala Kencana Expedition",
+    "kota_asal": "Bandung",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@cakrawalakencana.co.id",
+      "telepon": "+6288968492605"
+    }
+  },
+  {
+    "nama": "PT Purnama Global Voyage",
+    "kota_asal": "Lombok",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@purnamaglobal.co.id",
+      "telepon": "+6286310017217"
+    }
+  },
+  {
+    "nama": "PT Pelita Prima Holiday",
+    "kota_asal": "Surabaya",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@pelitaprima.co.id",
+      "telepon": "+6283957849794"
+    }
+  },
+  {
+    "nama": "PT Pandawa Sejahtera Perkasa",
+    "kota_asal": "Lombok",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@pandawasejahtera.co.id",
+      "telepon": "+6281097686281"
+    }
+  },
+  {
+    "nama": "PT Purnama Sentosa Expedition",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@purnamasentosa.co.id",
+      "telepon": "+6285941576281"
+    }
+  },
+  {
+    "nama": "PT Jelajah Langkah Perkasa",
+    "kota_asal": "Makassar",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@jelajahlangkah.co.id",
+      "telepon": "+6288502155391"
+    }
+  },
+  {
+    "nama": "PT Bintang Jaya Semesta",
+    "kota_asal": "Malang",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@bintangjaya.co.id",
+      "telepon": "+6284819088814"
+    }
+  },
+  {
+    "nama": "PT Cakrawala Sukses Semesta",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@cakrawalasukses.co.id",
+      "telepon": "+6283082604645"
+    }
+  },
+  {
+    "nama": "PT Purnama Kencana Perkasa",
+    "kota_asal": "Surabaya",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@purnamakencana.co.id",
+      "telepon": "+6286469138214"
+    }
+  },
+  {
+    "nama": "PT Jelajah Sukses Travel",
+    "kota_asal": "Bandung",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@jelajahsukses.co.id",
+      "telepon": "+6282880429116"
+    }
+  },
+  {
+    "nama": "PT Rimba Jaya Perkasa",
+    "kota_asal": "Medan",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@rimbajaya.co.id",
+      "telepon": "+6286795363939"
+    }
+  },
+  {
+    "nama": "PT Ananta Wisata Expedition",
+    "kota_asal": "Yogyakarta",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@anantawisata.co.id",
+      "telepon": "+6288130836114"
+    }
+  },
+  {
+    "nama": "PT Cakrawala Makmur Holiday",
+    "kota_asal": "Semarang",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@cakrawalamakmur.co.id",
+      "telepon": "+6289341401765"
+    }
+  },
+  {
+    "nama": "PT Ananta Kreasi Holiday",
+    "kota_asal": "Bandung",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@anantakreasi.co.id",
+      "telepon": "+6288495745147"
+    }
+  },
+  {
+    "nama": "PT Adidaya Jaya Internasional",
+    "kota_asal": "Lombok",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@adidayajaya.co.id",
+      "telepon": "+6285114640067"
+    }
+  },
+  {
+    "nama": "PT Mega Sentosa Voyage",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@megasentosa.co.id",
+      "telepon": "+6281519716792"
+    }
+  },
+  {
+    "nama": "PT Mahameru Global Expedition",
+    "kota_asal": "Surabaya",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@mahameruglobal.co.id",
+      "telepon": "+6288120595737"
+    }
+  },
+  {
+    "nama": "PT Surya Harmoni Voyage",
+    "kota_asal": "Makassar",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@suryaharmoni.co.id",
+      "telepon": "+6286323343714"
+    }
+  },
+  {
+    "nama": "PT Khatulistiwa Wisata Expedition",
+    "kota_asal": "Malang",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@khatulistiwawisata.co.id",
+      "telepon": "+6289894555774"
+    }
+  },
+  {
+    "nama": "PT Garuda Wisata Adventure",
+    "kota_asal": "Surabaya",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@garudawisata.co.id",
+      "telepon": "+6284136095006"
+    }
+  },
+  {
+    "nama": "PT Pesona Langkah Perkasa",
+    "kota_asal": "Makassar",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@pesonalangkah.co.id",
+      "telepon": "+6284138778333"
+    }
+  },
+  {
+    "nama": "PT Kencana Nusa Indonesia",
+    "kota_asal": "Lombok",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@kencananusa.co.id",
+      "telepon": "+6287538378709"
+    }
+  },
+  {
+    "nama": "PT Borneo Sejati Perkasa",
+    "kota_asal": "Medan",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@borneosejati.co.id",
+      "telepon": "+6288239033322"
+    }
+  },
+  {
+    "nama": "PT Bintang Sentosa Expedition",
+    "kota_asal": "Semarang",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@bintangsentosa.co.id",
+      "telepon": "+6281332329093"
+    }
+  },
+  {
+    "nama": "PT Bumi Kreasi Tour & Travel",
+    "kota_asal": "Lombok",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@bumikreasi.co.id",
+      "telepon": "+6281294832269"
+    }
+  },
+  {
+    "nama": "PT Gema Makmur Holiday",
+    "kota_asal": "Yogyakarta",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@gemamakmur.co.id",
+      "telepon": "+6282891997605"
+    }
+  },
+  {
+    "nama": "PT Aruna Sejahtera Expedition",
+    "kota_asal": "Lombok",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@arunasejahtera.co.id",
+      "telepon": "+6289914859831"
+    }
+  },
+  {
+    "nama": "PT Bahari Harmoni Travel",
+    "kota_asal": "Medan",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@bahariharmoni.co.id",
+      "telepon": "+6288639868407"
+    }
+  },
+  {
+    "nama": "PT Gema Kencana Voyage",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@gemakencana.co.id",
+      "telepon": "+6289966728089"
+    }
+  },
+  {
+    "nama": "PT Dewata Jaya Travel",
+    "kota_asal": "Semarang",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@dewatajaya.co.id",
+      "telepon": "+6286195151612"
+    }
+  },
+  {
+    "nama": "PT Borneo Wisata Tour & Travel",
+    "kota_asal": "Semarang",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@borneowisata.co.id",
+      "telepon": "+6285373727995"
+    }
+  },
+  {
+    "nama": "PT Surya Harmoni Travel",
+    "kota_asal": "Semarang",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@suryaharmoni.co.id",
+      "telepon": "+6286224060323"
+    }
+  },
+  {
+    "nama": "PT Swarna Global Holiday",
+    "kota_asal": "Malang",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@swarnaglobal.co.id",
+      "telepon": "+6285112439077"
+    }
+  },
+  {
+    "nama": "PT Gema Langkah Perkasa",
+    "kota_asal": "Makassar",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@gemalangkah.co.id",
+      "telepon": "+6285408737724"
+    }
+  },
+  {
+    "nama": "PT Jelajah Sejahtera Adventure",
+    "kota_asal": "Bandung",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@jelajahsejahtera.co.id",
+      "telepon": "+6285672999519"
+    }
+  },
+  {
+    "nama": "PT Mahameru Sentosa Perkasa",
+    "kota_asal": "Bandung",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@mahamerusentosa.co.id",
+      "telepon": "+6283803422998"
+    }
+  },
+  {
+    "nama": "PT Andalas Kencana Voyage",
+    "kota_asal": "Malang",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@andalaskencana.co.id",
+      "telepon": "+6288195847070"
+    }
+  },
+  {
+    "nama": "PT Nusantara Global Internasional",
+    "kota_asal": "Semarang",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@nusantaraglobal.co.id",
+      "telepon": "+6285054011427"
+    }
+  },
+  {
+    "nama": "PT Mahameru Sentosa Semesta",
+    "kota_asal": "Semarang",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@mahamerusentosa.co.id",
+      "telepon": "+6287140191014"
+    }
+  },
+  {
+    "nama": "PT Gema Jaya Tour & Travel",
+    "kota_asal": "Medan",
+    "rating": 4,
+    "kontak": {
+      "email": "halo@gemajaya.co.id",
+      "telepon": "+6284680606024"
+    }
+  },
+  {
+    "nama": "PT Jelajah Utama Expedition",
+    "kota_asal": "Surabaya",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@jelajahutama.co.id",
+      "telepon": "+6284580572495"
+    }
+  },
+  {
+    "nama": "PT Bintang Kencana Indonesia",
+    "kota_asal": "Surabaya",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@bintangkencana.co.id",
+      "telepon": "+6282329387321"
+    }
+  },
+  {
+    "nama": "PT Borneo Abadi Holiday",
+    "kota_asal": "Padang",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@borneoabadi.co.id",
+      "telepon": "+6285105849134"
+    }
+  },
+  {
+    "nama": "PT Lentera Nusa Perkasa",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@lenteranusa.co.id",
+      "telepon": "+6288035901943"
+    }
+  },
+  {
+    "nama": "PT Khatulistiwa Wisata Perkasa",
+    "kota_asal": "Denpasar",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@khatulistiwawisata.co.id",
+      "telepon": "+6282247363408"
+    }
+  },
+  {
+    "nama": "PT Bintang Utama Voyage",
+    "kota_asal": "Semarang",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@bintangutama.co.id",
+      "telepon": "+6283417985877"
+    }
+  },
+  {
+    "nama": "PT Bahari Langkah Holiday",
+    "kota_asal": "Malang",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@baharilangkah.co.id",
+      "telepon": "+6283008617361"
+    }
+  },
+  {
+    "nama": "PT Adidaya Sejahtera Voyage",
+    "kota_asal": "Lombok",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@adidayasejahtera.co.id",
+      "telepon": "+6285604276350"
+    }
+  },
+  {
+    "nama": "PT Mitra Wisata Travel",
+    "kota_asal": "Medan",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@mitrawisata.co.id",
+      "telepon": "+6287964524957"
+    }
+  },
+  {
+    "nama": "PT Pelita Mandiri Semesta",
+    "kota_asal": "Malang",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@pelitamandiri.co.id",
+      "telepon": "+6283711358173"
+    }
+  },
+  {
+    "nama": "PT Gema Harmoni Internasional",
+    "kota_asal": "Bandung",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@gemaharmoni.co.id",
+      "telepon": "+6285286164750"
+    }
+  },
+  {
+    "nama": "PT Mahameru Sukses Voyage",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@mahamerusukses.co.id",
+      "telepon": "+6288650136277"
+    }
+  },
+  {
+    "nama": "PT Aruna Mandiri Semesta",
+    "kota_asal": "Balikpapan",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@arunamandiri.co.id",
+      "telepon": "+6288131845754"
+    }
+  },
+  {
+    "nama": "PT Pandawa Sentosa Tour & Travel",
+    "kota_asal": "Balikpapan",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@pandawasentosa.co.id",
+      "telepon": "+6285127459297"
+    }
+  },
+  {
+    "nama": "PT Bahari Mandiri Voyage",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@baharimandiri.co.id",
+      "telepon": "+6288650418530"
+    }
+  },
+  {
+    "nama": "PT Borneo Wisata Tour & Travel",
+    "kota_asal": "Surabaya",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@borneowisata.co.id",
+      "telepon": "+6289828708998"
+    }
+  },
+  {
+    "nama": "PT Bahari Makmur Internasional",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@baharimakmur.co.id",
+      "telepon": "+6289902388055"
+    }
+  },
+  {
+    "nama": "PT Adidaya Makmur Indonesia",
+    "kota_asal": "Bandung",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@adidayamakmur.co.id",
+      "telepon": "+6282544660906"
+    }
+  },
+  {
+    "nama": "PT Aruna Sukses Internasional",
+    "kota_asal": "Malang",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@arunasukses.co.id",
+      "telepon": "+6285116141283"
+    }
+  },
+  {
+    "nama": "PT Gema Tour Expedition",
+    "kota_asal": "Bandung",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@gematour.co.id",
+      "telepon": "+6283345164926"
+    }
+  },
+  {
+    "nama": "PT Baruna Jaya Holiday",
+    "kota_asal": "Lombok",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@barunajaya.co.id",
+      "telepon": "+6287160446728"
+    }
+  },
+  {
+    "nama": "PT Andalas Wisata Holiday",
+    "kota_asal": "Malang",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@andalaswisata.co.id",
+      "telepon": "+6284189425408"
+    }
+  },
+  {
+    "nama": "PT Cakrawala Utama Perkasa",
+    "kota_asal": "Semarang",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@cakrawalautama.co.id",
+      "telepon": "+6285239443569"
+    }
+  },
+  {
+    "nama": "PT Bumi Langkah Travel",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@bumilangkah.co.id",
+      "telepon": "+6281332626407"
+    }
+  },
+  {
+    "nama": "PT Tri Tunggal Jaya Holiday",
+    "kota_asal": "Makassar",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@tritunggaljaya.co.id",
+      "telepon": "+6284383090474"
+    }
+  },
+  {
+    "nama": "PT Mitra Langkah Travel",
+    "kota_asal": "Denpasar",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@mitralangkah.co.id",
+      "telepon": "+6282940873760"
+    }
+  },
+  {
+    "nama": "PT Bintang Lestari Voyage",
+    "kota_asal": "Semarang",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@bintanglestari.co.id",
+      "telepon": "+6282175231209"
+    }
+  },
+  {
+    "nama": "PT Baruna Abadi Expedition",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@barunaabadi.co.id",
+      "telepon": "+6283505223364"
+    }
+  },
+  {
+    "nama": "PT Bintang Jaya Holiday",
+    "kota_asal": "Surabaya",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@bintangjaya.co.id",
+      "telepon": "+6289134450480"
+    }
+  },
+  {
+    "nama": "PT Ananta Jaya Tour & Travel",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@anantajaya.co.id",
+      "telepon": "+6283192750541"
+    }
+  },
+  {
+    "nama": "PT Adidaya Global Indonesia",
+    "kota_asal": "Denpasar",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@adidayaglobal.co.id",
+      "telepon": "+6286618605650"
+    }
+  },
+  {
+    "nama": "PT Kencana Wisata Travel",
+    "kota_asal": "Semarang",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@kencanawisata.co.id",
+      "telepon": "+6282195263934"
+    }
+  },
+  {
+    "nama": "PT Borneo Abadi Semesta",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.8,
+    "kontak": {
+      "email": "halo@borneoabadi.co.id",
+      "telepon": "+6284117469591"
+    }
+  },
+  {
+    "nama": "PT Adidaya Harmoni Adventure",
+    "kota_asal": "Padang",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@adidayaharmoni.co.id",
+      "telepon": "+6286707852916"
+    }
+  },
+  {
+    "nama": "PT Pesona Kencana Adventure",
+    "kota_asal": "Padang",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@pesonakencana.co.id",
+      "telepon": "+6286278315446"
+    }
+  },
+  {
+    "nama": "PT Ananta Utama Semesta",
+    "kota_asal": "Medan",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@anantautama.co.id",
+      "telepon": "+6288019169015"
+    }
+  },
+  {
+    "nama": "PT Ananta Sukses Indonesia",
+    "kota_asal": "Semarang",
+    "rating": 4.4,
+    "kontak": {
+      "email": "halo@anantasukses.co.id",
+      "telepon": "+6288248528932"
+    }
+  },
+  {
+    "nama": "PT Tri Tunggal Kreasi Perkasa",
+    "kota_asal": "Lombok",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@tritunggalkreasi.co.id",
+      "telepon": "+6289855567006"
+    }
+  },
+  {
+    "nama": "PT Nusantara Sentosa Adventure",
+    "kota_asal": "Padang",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@nusantarasentosa.co.id",
+      "telepon": "+6289239159699"
+    }
+  },
+  {
+    "nama": "PT Tri Tunggal Utama Tour & Travel",
+    "kota_asal": "Surabaya",
+    "rating": 4.5,
+    "kontak": {
+      "email": "halo@tritunggalutama.co.id",
+      "telepon": "+6288790595519"
+    }
+  },
+  {
+    "nama": "PT Swarna Utama Tour & Travel",
+    "kota_asal": "Padang",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@swarnautama.co.id",
+      "telepon": "+6287264776651"
+    }
+  },
+  {
+    "nama": "PT Swarna Kencana Voyage",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@swarnakencana.co.id",
+      "telepon": "+6287758664879"
+    }
+  },
+  {
+    "nama": "PT Bintang Kencana Internasional",
+    "kota_asal": "Malang",
+    "rating": 4.3,
+    "kontak": {
+      "email": "halo@bintangkencana.co.id",
+      "telepon": "+6287826953254"
+    }
+  },
+  {
+    "nama": "PT Bahari Sentosa Semesta",
+    "kota_asal": "Jakarta Selatan",
+    "rating": 4.1,
+    "kontak": {
+      "email": "halo@baharisentosa.co.id",
+      "telepon": "+6281246928297"
+    }
+  },
+  {
+    "nama": "PT Kencana Sejahtera Expedition",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.6,
+    "kontak": {
+      "email": "halo@kencanasejahtera.co.id",
+      "telepon": "+6289625702965"
+    }
+  },
+  {
+    "nama": "PT Gema Kencana Internasional",
+    "kota_asal": "Padang",
+    "rating": 4.7,
+    "kontak": {
+      "email": "halo@gemakencana.co.id",
+      "telepon": "+6284602430550"
+    }
+  },
+  {
+    "nama": "PT Purnama Nusa Semesta",
+    "kota_asal": "Bandung",
+    "rating": 5,
+    "kontak": {
+      "email": "halo@purnamanusa.co.id",
+      "telepon": "+6282993369278"
+    }
+  },
+  {
+    "nama": "PT Pesona Abadi Perkasa",
+    "kota_asal": "Medan",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@pesonaabadi.co.id",
+      "telepon": "+6287383227346"
+    }
+  },
+  {
+    "nama": "PT Dewata Abadi Perkasa",
+    "kota_asal": "Balikpapan",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@dewataabadi.co.id",
+      "telepon": "+6288397474633"
+    }
+  },
+  {
+    "nama": "PT Andalas Jaya Travel",
+    "kota_asal": "Medan",
+    "rating": 4.2,
+    "kontak": {
+      "email": "halo@andalasjaya.co.id",
+      "telepon": "+6282354598418"
+    }
+  },
+  {
+    "nama": "PT Mega Kencana Indonesia",
+    "kota_asal": "Yogyakarta",
+    "rating": 4.9,
+    "kontak": {
+      "email": "halo@megakencana.co.id",
+      "telepon": "+6284008597042"
+    }
+  }
+]
